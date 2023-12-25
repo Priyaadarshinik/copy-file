@@ -32,6 +32,7 @@ for s in texts:
 fileHandle.close()
 print("\nFile Copied Successfully!")
 ```
+
 ### OUTPUT:
 
 ![output](/output1.png)
