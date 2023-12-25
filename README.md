@@ -33,7 +33,6 @@ fileHandle.close()
 print("\nFile Copied Successfully!")
 ```
 ### OUTPUT:
-
 ![output](/output1.png)
 ![output](/output2.png)
 ![output](/output3.png)
